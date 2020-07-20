@@ -40,7 +40,7 @@ This platformer template contains:
 * Run
 
   ```Bash
-  yarn run start # or npm start
+  > yarn run start # or npm start
   ```
 
 ## Snowpack
